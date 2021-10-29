@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_omar4812?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_omar4812)
 
-## I'm a developer , selftaught and student
+## I'm a developer, selftaught and student
 
 - 💻 I’m currently learning React JS ⚛️
 - 🥅 2022 Goals: Land my first job
@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Omar's e-mail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Omar's e-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][website]
 [<img align="left" alt="Omar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Omar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
