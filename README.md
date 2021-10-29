@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_omar4812?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_omar4812)
 
-## I'm a developer, selftaught and student
+## I'm a developer, self-taught and student
 
 - 💻 I’m currently learning React JS ⚛️
 - 🥅 2022 Goals: Land my first job
