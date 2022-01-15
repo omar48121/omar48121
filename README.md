@@ -39,4 +39,4 @@
 [mail]: mailto:orodriguez.ordl@gmail.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/_omar4812
-[linkedin]: https://www.linkedin.com
+[linkedin]: https://www.linkedin.com/in/omar-rdz/
